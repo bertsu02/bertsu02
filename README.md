@@ -1,4 +1,5 @@
-<p>Welcome to my page! </br> I'm Bartek Front-End developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Poland</b>
+<p>Welcome to my page! </br> I'm Bartek Front-End developer from <img src="![image](https://github.com/bertsu02/bertsu02/assets/132684557/d9c0ac65-2ccb-49eb-bb6b-ad49db48cc5b)
+" width="13"/> <b>Poland</b>
 <h3>Technologies I know :</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
