@@ -1,6 +1,11 @@
-<p>Welcome to my page! </br> I'm Bartek Front-End developer from <img src="![image](https://github.com/bertsu02/bertsu02/assets/132684557/d9c0ac65-2ccb-49eb-bb6b-ad49db48cc5b)
-" width="13"/> <b>Poland</b>
-<h3>Technologies I know :</h3>
+<p align="center">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:bertsu02"></a>
+</p>
+
+<h1 align="center">Hi 👋, I'm Bartek </h1>
+<h2 align="center">A passionate front-end developer from Poland <img width ="20px" src ="https://cdn-icons-png.flaticon.com/512/323/323338.png"></h2>
+
+<h3 align="center">Languages and Tools:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -14,4 +19,17 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+<h3 align="center">About Me :</h3>
+<p align="center">
+  👀 I’m interested in front-end mainly
+</p>
+<p align="center">
+  🌱 I’m currently learning React
+</p>
+<p align="center">
+  📫 How to reach me - check out my [Portfolio](https://bertsu02.github.io/portfolio/) or my [LinkedIn](https://www.linkedin.com/in/bartosz-%C5%BCmuda-a9083b2a9/).
+</p>
+<p align="center">
+  💮 Asian culture enjoyer
 </p>
