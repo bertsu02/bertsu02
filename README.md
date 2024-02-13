@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Bartek Żmuda @bertsu02
-- 👀 I’m interested in front-end mainly
-- 🌱 I’m currently learning React
-- 📫 How to reach me - check out my [Portfolio](https://bertsu02.github.io/portfolio/) or my [LinkedIn](https://www.linkedin.com/in/bartosz-%C5%BCmuda-a9083b2a9/).
-- 🛠️ My skills so far:
+👋 Hi, I’m Bartek Żmuda @bertsu02
+👀 I’m interested in front-end mainly
+🌱 I’m currently learning React
+📫 How to reach me - check out my [Portfolio](https://bertsu02.github.io/portfolio/) or my [LinkedIn](https://www.linkedin.com/in/bartosz-%C5%BCmuda-a9083b2a9/).
+🛠️ My skills so far:
 - Typescript, JavaScript (ES2015 - 2019)
 - React, Redux, React Native
 - React Bootstrap
