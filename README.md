@@ -28,8 +28,15 @@
   🌱 I’m currently learning React
 </p>
 <p align="center">
-  📫 How to reach me - check out my [Portfolio](https://bertsu02.github.io/portfolio/) or my [LinkedIn](https://www.linkedin.com/in/bartosz-%C5%BCmuda-a9083b2a9/).
-</p>
-<p align="center">
   💮 Asian culture enjoyer
 </p>
+<p align="center">
+  <img alt="coder-gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl2NzZhdTNoc3ZpdDg3bW9pb2s5M2M0M3h0NjcxcGMweTQ4cnpxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+</p>
+<br>
+  <a align="center" href="https://in.linkedin.com/in/bartosz-żmuda-a9083b2a9">
+    <img align="left" alt="Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a align="center" href="mailto:zmuda.bartek02@gmail.com">
+    <img align="left" alt="Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
