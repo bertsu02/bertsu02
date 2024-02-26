@@ -25,7 +25,7 @@
   👀 I’m interested in front-end mainly
 </p>
 <p align="center">
-  🌱 I’m currently learning React
+  🌱 I’m currently learning Angular
 </p>
 <p align="center">
   💮 Asian culture enjoyer
