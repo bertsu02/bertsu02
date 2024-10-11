@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bartek </h1>
-<h2 align="center">A passionate front-end developer from Poland <img width ="20px" src ="https://cdn-icons-png.flaticon.com/512/323/323338.png"></h2>
+<h2 align="center">💻 QA engineer with Front-end Developer background 🔧 Manual testing, Automation testing, HTML, CSS, JS, React, Typescript from Poland <img width ="20px" src ="https://cdn-icons-png.flaticon.com/512/323/323338.png"></h2>
 
 <h3 align="center">Languages and Tools:</h3>
 <p>
@@ -22,10 +22,10 @@
 </p>
 <h3 align="center">About Me :</h3>
 <p align="center">
-  👀 I’m interested in front-end mainly
+  👀 I’m interested in QA and front-end
 </p>
 <p align="center">
-  🌱 I’m currently learning Angular
+  🌱 I’m currently learning Cypress
 </p>
 <p align="center">
   💮 Asian culture enjoyer
