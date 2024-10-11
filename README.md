@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bartek </h1>
-<h2 align="center">💻 QA engineer with Front-end Developer background 🔧 Manual testing, Automation testing, HTML, CSS, JS, React, Typescript from Poland <img width ="20px" src ="https://cdn-icons-png.flaticon.com/512/323/323338.png"></h2>
+<h2 align="center">💻 QA engineer with Front-end Developer background 🔧 Manual testing, Automation testing, HTML, CSS, JS, React, Typescript </h2>
 
 <h3 align="center">Languages and Tools:</h3>
 <p>
